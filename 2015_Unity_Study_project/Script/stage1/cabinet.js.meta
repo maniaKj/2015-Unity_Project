@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4524fa499d6d9ac4aaebc57efecee7a1
+timeCreated: 1450324920
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Door_1: {instanceID: 0}
+  - Door_2: {instanceID: 0}
+  - openingSound: {fileID: 8300000, guid: 20c83b435053e0d47a7b7d6614f33325, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
